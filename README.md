@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **comMaep**
+
+- 🌱 I’m currently learning **React js**
+
+- 👯 I’m looking to collaborate on **symfony projects**
+
 - 💬 Ask me about **symfony, vue js**
 
 - 📫 How to reach me **atadev13@gmail.com**
