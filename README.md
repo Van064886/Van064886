@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **PillowMart**
 
-- 🌱 I’m currently learning **React js**
+- 👯 I’m looking to collaborate on **interesting projects**
 
-- 👯 I’m looking to collaborate on **symfony projects**
-
-- 💬 Ask me about **symfony, vue js**
+- 💬 Ask me about **symfony, vue js, react js and node js**
 
 - 📫 How to reach me **atadev13@gmail.com**
 
