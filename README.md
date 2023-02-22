@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vanique ATADE</h1>
-<h3 align="center">A passionate fullstack developper from Benin</h3>
+<h3 align="center">A fullstack developper from Benin</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **PillowMart**
+- 🔭 I’m currently working on **AI Projects**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
