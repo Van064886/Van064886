@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 💬 Ask me about **symfony, vue js, react js and node js**
+- 💬 Ask me about **symfony, laravel, vue js, react js and node js**
 
 - 📫 How to reach me **atadev13@gmail.com**
 
