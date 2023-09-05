@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 💬 Ask me about **symfony, laravel, vue js, react js, nest js and flutter**
+- 💬 Ask me about **SYMFONY, LARAVEL, REACT.JS, NEXT.JS, ADONIS.JS and FLUTTER**
 
 - 📫 How to reach me **atadev13@gmail.com**
 
