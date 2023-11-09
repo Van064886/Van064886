@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 💬 Ask me about **SYMFONY, LARAVEL, REACT.JS, NEXT.JS, ADONIS.JS and FLUTTER**
+- 💬 Ask me about **SYMFONY, LARAVEL, REACT.JS, NEXT.JS, and FLUTTER**
 
 - 📫 How to reach me **atadev13@gmail.com**
 
