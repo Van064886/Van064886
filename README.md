@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SAAS projects<br>👯 I’m looking to collaborate on interesting projects <br>💬 Ask me about Laravel, Symfony, Django, React js, Next js and Flutter
+🔭 I’m currently working on SAAS projects<br>👯 I’m looking to collaborate on interesting projects <br>💬 Ask me about Laravel, Symfony, Django, React js, Next js, Vue js and Flutter
 
 
 ## 🌐 Socials:
